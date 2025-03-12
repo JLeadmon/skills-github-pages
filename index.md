@@ -1,41 +1,6 @@
 ---
-title: Welcome to my resume
+title: Welcome to my blog
 ---
 
-Jacob Leadmon
 
-
-510 Bridge street
-Huntington, WV 25702
-304-429-9382
-leadmonjacob@gmail.com
-EXPERIENCE
-Mountwest, 1 Mountwest Way — IT Helpdesk
-February 2024 - December 2024
-I help people reset passwords, find their emails, and help with mfa.
-EDUCATION
-Huntington High School, 1 Highlander Way — Diploma
-August 2019 - May 2023
-I went out to the career center for coding, app, and game design. I also went out there for computer repair. I graduated with honors.
-Mountwest, 1 Mountwest Way — Associates Degree
-August 2023 - present
-I am going out to Mountwest and community technical college. I am majoring in animation and gaming.
-PROJECTS
-To be determined — Video Game
-I am developing a game. The basic idea is to collect multiple different items while being chased down by some kind of entity that will kill you once it catches you.
-SKILLS
-Landscaping.
-Elderly Care.
-Teacher’s assistant.
-Basic computer repair skills.
-Video game tester.
-Basic use of adobe photoshop
-Basic C++ in Unreal Engine
-AWARDS
-Certificate of completion in coding app and game design.
-Nocti Certificate in coding app and game design.
-Testout Certificate of computer repair.
-SkillsUSA.
-LANGUAGES
-English
 
